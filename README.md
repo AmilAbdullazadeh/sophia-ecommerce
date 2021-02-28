@@ -1,5 +1,3 @@
-# Lesson-33
-We have optimized our client side application to leverage react.lazy for lazy loading our components at the route level, but also using the new Suspense feature so we're able to properly render our now asynchronously loaded components!
 
 # How to fork and clone
 
